@@ -1,0 +1,16 @@
+M&S Survey form
+h1{
+    text-align:center;
+  }
+  label{
+  display:block;
+  border: 2px solid rgb(43, 255, 0);
+  padding: 10px;
+  border-radius: 15px;
+  }
+  body{
+    font-family:Tahoma;
+    font-size:20px;
+    background-color:rgb(0, 200, 255);
+    color:white;
+  }
